@@ -15,6 +15,6 @@ Working at [FriesCat Ltd.](https://friescat.de/)
 </div>
 
 - 📫 How to reach me:
-> Link: https://link.friescat.de/DanH
+> Link: https://link.friescat.de/DanH  
 > Email: Daniel@FriesCat.de
 
