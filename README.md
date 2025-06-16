@@ -6,8 +6,9 @@
 <a href="https://fastapi.tiangolo.com/"><img src="https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white" alt="FastAPI"/></a>
 <a href="https://www.mysql.com/"><img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white" alt="MySQL"/></a>
 <a href="https://redis.io/"><img src="https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=white" alt="Redis"/></a>  
-Life is short, I use Python :)   
 🍃 Student
+Life is short, I use Python :)   
+
 
 
  [FriesCat Ltd.](https://friescat.de/)
