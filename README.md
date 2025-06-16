@@ -1,4 +1,5 @@
 ## 👋 Hey There, I’m Daniel Hall
+🍃 Student
 <a href="https://www.python.org/"><img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" alt="Python"/></a>
 <a href="https://www.rust-lang.org/"><img src="https://img.shields.io/badge/Rust-000000?logo=rust&logoColor=white" alt="Rust"/></a>
 <a href="https://golang.org/"><img src="https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white" alt="Golang"/></a>
@@ -8,7 +9,7 @@
 Life is short, I use Python :)  
 
 
-Working at [FriesCat Ltd.](https://friescat.de/)
+ [FriesCat Ltd.](https://friescat.de/)
 <div>
   <img height="180em" src="https://github-readme-stats-sigma-six-23.vercel.app/api?username=DanielHallx&show_icons=true&theme=light" alt="Evan Clausen's GitHub Stats" />
 <!--   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EvanClausen111&layout=compact&theme=light" alt="Evan Clausen's Top Langs" /> -->
