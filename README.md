@@ -6,12 +6,10 @@
 <a href="https://fastapi.tiangolo.com/"><img src="https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white" alt="FastAPI"/></a>
 <a href="https://www.mysql.com/"><img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white" alt="MySQL"/></a>
 <a href="https://redis.io/"><img src="https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=white" alt="Redis"/></a>  
-🔭 Student  
+🔭 Student \ Research \ LLMs \ Cloud Service \ Together, we run towards the future  
 💭 Life is short, I use Python :)   
 
-
-
- [FriesCat Ltd.](https://friescat.de/)
+With me [SandwichCat.de](https://SandwichCat.de)
 <div>
   <img height="180em" src="https://github-readme-stats-sigma-six-23.vercel.app/api?username=DanielHallx&show_icons=true&theme=light" alt="Evan Clausen's GitHub Stats" />
 <!--   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EvanClausen111&layout=compact&theme=light" alt="Evan Clausen's Top Langs" /> -->
@@ -19,5 +17,5 @@
 
 - 📫 How to reach me:
 > Link: https://link.friescat.de/DanH  
-> Email: Daniel@FriesCat.de
+> Email: Dan@SandwichCat.de
 
