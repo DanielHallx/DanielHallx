@@ -9,13 +9,16 @@
 🔭 **Student** \ **Research** \ **LLMs** \ **Cloud Service** \ **Together, we run towards the future**    
 💭 Life is short, I use Python :)   
 
-With me [SandwichCat.de](https://SandwichCat.de)
+🥪 With me [SandwichCat.de](https://SandwichCat.de)
+
+📫 How to reach me:
+> Email: Dan@SandwichCat.de  
+> Link: https://link.sandwichcat.de/DanH  
+
+
 <div>
   <img height="180em" src="https://github-readme-stats-sigma-six-23.vercel.app/api?username=DanielHallx&show_icons=true&theme=light" alt="Evan Clausen's GitHub Stats" />
 <!--   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EvanClausen111&layout=compact&theme=light" alt="Evan Clausen's Top Langs" /> -->
 </div>
 
-- 📫 How to reach me:
-> Link: https://link.sandwichcat.de/DanH  
-> Email: Dan@SandwichCat.de
 
