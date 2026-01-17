@@ -17,7 +17,7 @@
 
 
 <div>
-  <img height="180em" src="https://github-readme-stats-sigma-six-23.vercel.app/api?username=DanielHallx&show_icons=true&theme=light" alt="Evan Clausen's GitHub Stats" />
+  <img height="180em" src="https://github-readme-stats-sigma-six-23.vercel.app/api?username=DanielHallx&show_icons=true&theme=light" alt="Daniel Hall's GitHub Stats" />
 <!--   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EvanClausen111&layout=compact&theme=light" alt="Evan Clausen's Top Langs" /> -->
 </div>
 
