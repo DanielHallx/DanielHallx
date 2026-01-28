@@ -9,10 +9,10 @@
 🔭 **Student** \ **Research** \ **LLMs** \ **Cloud Service** \ **Together, we run towards the future**    
 💭 Life is short, I use Python :)   
 
-🥪 With me [SandwichCat.de](https://SandwichCat.de)
+🥪 With me [Deploy.re](https://Deploy.re)
 
 📫 How to reach me:
-> Email: Dan@SandwichCat.de  
+> Email: Dan@Deploy.re  
 > Link: https://link.sandwichcat.de/DanH  
 
 
